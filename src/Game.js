@@ -13,7 +13,6 @@ export class Game {
     window;
     player;
     gameMap;
-
     fpsLabel;
 
     constructor() {

@@ -1,8 +1,8 @@
 import {Game} from "./src/Game.js";
+import {Random} from "./src/utility/Random.js";
 
 function main() {
-    let game = new Game();
+    new Game();
 }
-
 
 main();

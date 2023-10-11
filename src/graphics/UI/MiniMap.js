@@ -1,7 +1,6 @@
 import {Point} from "../../utility/Point.js";
 import {UIElement} from "./UIElement.js";
 import {GameMap} from "../../map/GameMap.js";
-import {Dimension} from "../../utility/Dimension.js";
 
 export class MiniMap extends UIElement {
 
